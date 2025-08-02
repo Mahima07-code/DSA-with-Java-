@@ -1,17 +1,17 @@
 # DSA-with-Java-
 This repository is to keep track of my DSA journey.
 
-📚 DSA with Java – Daily Problem Solving 💻
-This repository is dedicated to mastering Data Structures and Algorithms using Java with a commitment to solving at least one DSA problem every day.
+📚 DSA with Java – Daily Problem Solving 💻<br>
+This repository is dedicated to mastering Data Structures and Algorithms using Java with a commitment to solving at least one DSA problem every day.<br>
 It includes basic to advanced level questions with solutions .
 
-🛠️ What's inside:
-✅ Daily DSA problems with Java solutions
-💡 Optimized code with clear explanations
-📌 Categorized by topics (Arrays, Strings, Trees, DP, etc.)
-🔁 Updated every day with consistency
+🛠️ What's inside:<br>
+✅ Daily DSA problems with Java solutions<br>
+💡 Optimized code with clear explanations<br>
+📌 Categorized by topics (Arrays, Strings, Trees, DP, etc.)<br>
+🔁 Updated every day with consistency<br>
 
-🚀 Goal:
+🚀 Goal:<br>
 To build strong problem-solving skills, crack coding interviews, and stay consistent on the DSA journey.
 
 Roadmap followed :-
