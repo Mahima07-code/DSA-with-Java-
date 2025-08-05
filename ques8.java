@@ -20,7 +20,7 @@ public class ques8{
             nod++;
         }
         
-        k = k %nod;             // if k > nod
+        k = k % nod;             // if k > nod
         if(k<0){                // for negative value to turn them positive.
             k = k +nod;
         }
@@ -28,9 +28,9 @@ public class ques8{
         int q = n/(int)Math.pow(10,k);
         int r = n % (int)Math.pow(10,k);
 
-        int rot = r*(int)Math.pow(10,nod-k) + q;
+        int rot_no = r*(int)Math.pow(10,nod-k) + q;
 
-        System.out.println(rot);
+        System.out.println(rot_no);
     }
 }
 
